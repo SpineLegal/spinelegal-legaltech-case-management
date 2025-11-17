@@ -63,5 +63,5 @@ Automation is no longer optional — it’s the new standard.
 
 ## 📞 Want to Learn More?  
 Visit the official website: **https://www.spinelegal.co.uk**  
-Or book a free demo to explore the full case management suite.
+Or book a free demo **https://spinelegal.co.uk/book-a-meeting/** to explore the full case management suite.
 
